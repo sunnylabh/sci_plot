@@ -28,8 +28,8 @@ A modern, interactive web application for scientific data visualization and anal
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd sciplot-project
+git clone https://github.com/sunnylabh/sci_plot.git
+cd sci_plot
 ```
 
 2. Install dependencies:
