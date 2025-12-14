@@ -1,0 +1,5 @@
+{
+  "name": "SciPlot",
+  "description": "A scientific data visualization tool allowing users to upload CSV/TXT datasets, visualize them with customizable ranges, and receive AI-powered analysis.",
+  "requestFramePermissions": []
+}

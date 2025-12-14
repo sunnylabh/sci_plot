@@ -1,0 +1,1 @@
+export const PROJECT_FILES = {}; // Source code not included in self-download to prevent recursion.
